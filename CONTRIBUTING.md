@@ -1,1 +1,1 @@
-The rules should be followed to contribute
+The rules should be followed to contribute.
